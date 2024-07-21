@@ -1,2 +1,2 @@
-# coding challengw
+# coding challenge
 Vanilla JavaScript Projects
